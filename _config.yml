@@ -1,0 +1,113 @@
+# Site Settings
+name: Compraselecta
+title: Compraselecta
+description: Te traemos las cosas útiles e interesantes del internet. ¡Siempre contenidos de alta calidad y actualizados! 
+tags:
+  - cosas
+  - tecnología
+  - general
+show_hero: false
+menu:
+  - title: Inicio
+    url: /
+  # - title: About
+  #   url: /about
+  # - title: Contact
+  #   url: /contact
+  - title: Autor
+    url: /biografia
+  - title: Feed
+    url: /feed.xml
+email: contacto@compraselecta.es
+disqus_username: disqus_username
+cookie_consent: true     # To respect the usage of cookies
+cookie_consent_disclaimer: Nos gustaría utilizar cookies y scripts para mejorar la funcionalidad de la web. <span style="color:white"><a href="https://compraselecta.es/aviso-legal/">Saber Más</a></span>
+
+
+# Social Media Settings
+# Remove the item if you don't need it
+github_username: prodsan
+facebook_username: 
+twitter_username: _Pablor98
+instagram_username: pablor.98
+linkedin_username: pablorodriguezdev
+
+
+# Posts Settings
+show_time_bar: false
+show_modal_on_exit: false
+show_modal_on_finish_post: true
+two_columns_layout: false
+
+
+# Advanced Settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://compraselecta.es" # the base hostname & protocol for your site
+# google_analytics: "UA-XXXXXXXX-X"
+language: "es_ES"
+lang: "es_ES"
+categories_folder: category
+sent_message_url: "/contact/message-sent/"
+
+permalink: /:categories
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+collections:
+  authors:
+    output: true
+paginate_path: "/page/:num/"
+show_get_theme_btn: true
+use_logo: false
+
+# Content paginator
+paginate_content:
+  enabled: true
+  debug: false
+  collections:
+    - posts
+  auto: false
+  separator: "--page-break--"
+  permalink: "/:num/"
+  seo_canonical: true
+  properties:
+    part:
+      is_generated: true
+    last:
+      is_generated: true
+    single:
+      is_generated: true
+
+# SASS
+sass:
+  style: compressed
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-paginate-content
+  - jekyll-remote-theme
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Exclude my node related stuff
+exclude: [
+  'package.json',
+  'package-lock.json',
+  'src',
+  'node_modules',
+  'initpost.sh',
+  'Gemfile',
+  'Gemfile.lock',
+  'gulpfile.js',
+  'README.md'
+]
+
+# Theme
+# version: v1.0.0
+remote-theme: thiagorossener/jekflix-template

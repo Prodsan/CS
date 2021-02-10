@@ -1,0 +1,205 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+
+body.light:not(.main-page) {
+  .toggle {
+    color: black;
+    border: 1px solid #353535; 
+  }
+  .link {
+    color: #353535;
+    background-color: #00000012;
+    &:hover,&:active {
+      background: #d4d4d4;
+    }
+  }
+}
+
+
+.navbar {
+  display: inline-block;
+  height: 0;
+  .toggle, .brand {
+    display: inline-block;
+  }
+  .link {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 0.46em;
+    text-decoration: none;
+    background-color: #0a6fc147;
+    color: #ffffff;
+    border-radius: 3px;
+    &:hover,&:active {
+      background: #1c4982;
+    }
+  }
+  .brand {
+    width: 10em;
+    text-align: center;
+    padding: 1em;
+    background: black;
+    color: white;
+  }
+  .toggle {
+    padding: 0.3em;
+    color: white;
+    font-weight: bold;
+    vertical-align: text-bottom;
+    border: 1px solid white;
+    border-radius: 18px;
+  }
+}
+
+@media (min-width: 90em) {
+    .navbar {
+      float: right;
+      display: flex;
+      
+      .link {
+          width: max-content;
+          height: fit-content;
+          color: white;
+          margin-right: 1em;
+      }
+      .categoria {
+        justify-content: flex-end;
+        display: block;
+        flex: 1;
+        // a {
+        //   width: 10px;
+        // }
+      }
+      .toggle {
+        display: none;
+      }
+    }
+}
+
+.navbar {
+  a {
+    text-decoration: none;
+  }
+  div {
+    display: none;
+    @media (min-width: 90em) {
+      display: flex;
+    }
+  }
+}
+
+@media (max-width: 90em) {
+.navbar {
+  .link {
+    background-color: #053963;
+    height: 33px;
+    margin: 1px;
+    // border-bottom: 1px solid #4682b4;
+    // border-radius: unset;
+  }
+}
+.navbar.active {
+  position: inherit;
+  .toggle {
+    background: steelblue;
+    color: white;
+    vertical-align: middle;
+  }
+  div {
+    display: inline-block;
+  }
+}
+}
+
+
+
+
+body.has-push-menu,
+body.has-push-menu aside,
+body.has-push-menu .progress-bar {
+  transition: all 0.3s ease;
+}
+
+body.has-push-menu {
+  overflow-x: hidden;
+  position: relative;
+  left: 0;
+
+  &.push-menu-to-right {
+    left: rem(240px);
+
+    .progress-bar {
+      left: rem(240px);
+    }
+
+    .bar-header {
+      left: rem(240px);
+    }
+  }
+}
+
+aside.sidebar {
+  position: fixed;
+  width: rem(240px);
+  height: 100%;
+  top: 0;
+  left: rem(-240px);
+  background-color: $accentDark;
+  z-index: 20;
+
+  @include media(">=sm") {
+    padding: rem(10px) 0 0;
+  }
+
+  &.open {
+    left: 0;
+  }
+
+  h2 {
+    margin: 0 rem(20px) 0;
+    @include mainFont(400);
+    font-size: rem(18px);
+    color: $primaryDark;
+    border-bottom: 1px solid $primaryDark;
+    line-height: 50px;
+
+    @include media(">=sm") {
+      font-size: rem(20px);
+    }
+  }
+
+  nav {
+    ul {
+      padding: 0;
+      margin: rem(5px) 0;
+
+      @include media(">=sm") {
+        margin: rem(10px) 0;
+      }
+
+      li {
+        margin: 0;
+        list-style-type: none;
+
+        a {
+          width: 100%;
+          display: block;
+          padding: rem(15px) rem(20px);
+          text-decoration: none;
+          @include mainFont(300);
+          color: $primaryDark;
+
+          &:hover {
+            color: $accentDark;
+            background: $themeColor;
+          }
+        }
+      }
+    }
+  }
+}

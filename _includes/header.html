@@ -1,0 +1,44 @@
+<header class="bar-header">
+    <a id="menu" role="button">
+        <svg id="open" class="icon-menu"><use xlink:href="#icon-menu"></use></svg>
+    </a>
+    <div>
+      <h1 class="logo">
+          <a href="{{ site.baseurl }}/">
+              <img src="/assets/img/logo_cosas.png">
+                  {{ site.name }} <!--<span class="version">{{ site.version }}</span>-->
+          </a>
+      </h1>
+      <a id="search" class="dosearch" role="button">
+          <svg class="icon-search"><use xlink:href="#icon-search"></use></svg>
+        </a>
+        <nav class="navbar">
+            <a href="#" class="toggle" ><span style="text-decoration: none;">🔰</span> Categorías</a>
+            
+            <div class="categoria">
+              <a href="/general/" class="link">🔰 General</a>
+              
+            </div>
+            <div class="categoria">
+              <a href="/tecnologia/" class="link">💻 Tecnología</a>
+            </div>
+            <div class="categoria">
+              <a href="/tiempo-libre/" class="link">🚵‍♂️ Tiempo libre</a>
+            </div>
+            <div class="categoria">
+              <a href="/cuidado-personal/" class="link">💆‍♂️ Cuidado personal</a>
+            </div>
+            <div class="categoria">
+              <a href="/regalos/" class="link">🎁 Regalos</a>
+            </div>
+            <div class="categoria">
+              <a href="/cosas-gratis/" class="link">🆓 Cosas gratis</a>
+            </div>
+          </nav>
+    </div>
+</header>
+
+<div id="mask" class="overlay"></div>
+
+{% include menu.html %}
+{% include search.html %}
