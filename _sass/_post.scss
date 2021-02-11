@@ -1549,13 +1549,14 @@ a.ccc-star-rating:active {
 	padding: 0 20px;
 	font-weight: 400;
 	font-size: 12px;
-	line-height: 20px;
+	line-height: 17px;
 	text-transform: uppercase;
 	border-radius: 1.5em;
 }
 
 .ccc-product__ribbon--sale {
-	background: #5f9ebd;
+	background: #ffe7a8;
+	font-weight: bold!important;
 	border-bottom-left-radius: 2px;
 	color: #fff;
 	border-radius: 1.5em;
@@ -6158,8 +6159,9 @@ a.cc-star-rating:active {
 }
 
 .cc-product__ribbon--sale {
-	background: #043054;
+	background: #ffb6b6;
 	border-bottom-left-radius: 2px;
+	font-weight: bold!important;
 	color: #fff;
 	border-radius: 1.5em;
 }
