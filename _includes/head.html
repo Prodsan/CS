@@ -7,7 +7,7 @@
     {% if page.layout == 'author' %}
         {% assign title = page.display_name | append: ' | yatt' %}
     {% elsif page.layout == 'home' %}
-        {% assign title = 'yatt | El catálogo-repertorio de las cosas' %}
+        {% assign title = 'yatt | Comparador de productos' %}
     {% elsif page.title %}
         {% assign title = page.title  %}
     {% else %}
@@ -59,7 +59,7 @@
     <meta property="og:site_name" content="{{ site.title }}">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="{{ site.baseurl }}/favicon-32x32.png" type="image/x-icon" />
     
     <!-- Apple Touch Icons -->
     <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/img/icons/apple-touch-icon.png" />
@@ -99,7 +99,7 @@
     gtag('config', 'G-HSMDQSECH2');
     </script>
 
-    <link rel="stylesheet" href="{{ '/assets/css/styles.css?rnd=132' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
     <link rel="canonical" href="{{ url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}" />
 

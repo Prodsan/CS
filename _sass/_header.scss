@@ -4,7 +4,7 @@ body {
 }
 
 .bar-header {
-  background-color: #ff5252;
+  background: #ff5252;
   padding: .625rem .9375rem;//
   position: fixed;
   left: 0;
@@ -119,12 +119,6 @@ body {
   }
 }
 
-body.main-page {
-
-  .bar-header {
-    background-color: #043054;
-  }
-}
 
 body.light:not(.main-page) {
   .bar-header {

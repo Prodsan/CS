@@ -1,3 +1,4 @@
+
 .home {
   @include mainFont(400);
   -webkit-font-smoothing: antialiased;
@@ -91,6 +92,30 @@
     color: #252525;
   }
 
+
+
+  // @mixin random-bgr(){
+  //   background: linear-gradient(257deg, rgb(random(255), random(255), random(255)) 60%, rgb(random(255), random(255), random(255)) 60%);
+  //   opacity: 0.5;
+  // }
+  // $num-colors: 20;
+
+  // @for $i from 0 to $num-colors {
+  //   &:nth-child(#{$i}) {
+  //     @include random-bgr();
+  //   }
+  // }
+
+
+  // para el texto en función del bg
+  // @function text-clr($color) {
+  //   @if (lightness($color) > 50) {
+  //     @return #000;
+  //   } @else {
+  //     @return #FFF;
+  //   }
+  // }
+
   .category {
     display: block;
     height: rem(36px);
@@ -99,7 +124,9 @@
     font-weight: bold;
     font-size: rem(18px);
     padding: 0 rem(15px);
-    background-color: steelblue;
+
+    
+
     border-radius: 5px 5px 0 0;
 
     a {
