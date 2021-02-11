@@ -3,7 +3,7 @@ title: Aviso legal
 date: 2021-01-28 03:01
 permalink: "/aviso-legal/"
 menu: true
-description: Aviso legal para el sitio compraselecta.es.
+description: Aviso legal para el sitio yatt.es.
 layout: page
 published: true
 ---
@@ -14,7 +14,7 @@ En cumplimiento del artículo 10 de la Ley 34 / 2002, de 11 de julio, de Servici
 Titular: Pablo Rodríguez
 NIF:  49397757J
 Domicilio: Huelva
-Sitio Web https://compraselecta.es
+Sitio Web https://yatt.es
 ## Finalidad
 La finalidad del sitio Web URL es ofrecer información a los usuarios.
 
@@ -92,4 +92,4 @@ Este Aviso Legal se rige íntegramente por la legislación española.
 Siempre que no haya una norma que obligue a otra cosa, para cuantas cuestiones se susciten sobre la interpretación, aplicación y cumplimiento de este Aviso Legal, así como de las reclamaciones que puedan derivarse de su uso, las partes acuerdan someterse a los Jueces y Tribunales de la provincia de Huelva, con renuncia expresa de cualquier otra jurisdicción que pudiera corresponderles.
 
 ## Contacto
-En caso de que usted tenga cualquier duda acerca de estas Condiciones legales o quiera realizar cualquier comentario sobre este sitio Web, puede enviar un mensaje de correo electrónico a la dirección **contacto@compraselecta.es**
+En caso de que usted tenga cualquier duda acerca de estas Condiciones legales o quiera realizar cualquier comentario sobre este sitio Web, puede enviar un mensaje de correo electrónico a la dirección **contacto@yatt.es**

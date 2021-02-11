@@ -5,9 +5,9 @@
 
     {% assign title = '' %}
     {% if page.layout == 'author' %}
-        {% assign title = page.display_name | append: ' | compraselecta' %}
+        {% assign title = page.display_name | append: ' | yatt' %}
     {% elsif page.layout == 'home' %}
-        {% assign title = 'compraselecta | El catálogo-repertorio de las cosas' %}
+        {% assign title = 'yatt | El catálogo-repertorio de las cosas' %}
     {% elsif page.title %}
         {% assign title = page.title  %}
     {% else %}
