@@ -93,3 +93,6 @@ Siempre que no haya una norma que obligue a otra cosa, para cuantas cuestiones s
 
 ## Contacto
 En caso de que usted tenga cualquier duda acerca de estas Condiciones legales o quiera realizar cualquier comentario sobre este sitio Web, puede enviar un mensaje de correo electrónico a la dirección **contacto@yatt.es**
+
+## Consentimiento del logotipo de la web
+El logo utilizado será: [logo](https://emojipedia.org/ok-hand/){:target="_blank" rel="nofollow,noreferrer"} por tanto están bajo lo explicado por la propia empresa de Microsoft en su [faq](https://docs.microsoft.com/en-us/typography/fonts/font-faq){:target="_blank" rel="nofollow,noreferrer"} donde se cita clara y expresamente que tanto como a sus emoticonos como a sus símbolos se les consideran parte de una fuente o tipografía y por ende se ofrece el permiso de reproducción, venta o uso de los mismos; incluso como archivo gráfico o logotipo de una empresa como se puede apreciar en [esta imagen](https://i.gyazo.com/4ce7a751a244f6c1e8ede3490fa9ebc3.png){:target="_blank" rel="nofollow,noreferrer"} siguiente.
