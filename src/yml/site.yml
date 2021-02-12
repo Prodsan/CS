@@ -7,7 +7,6 @@ tags:
   - template
   - jekyll
   - theme
-  - netlify
 show_hero: false
 paginate: 17
 menu:
