@@ -5,7 +5,7 @@ title: ‍🥇‍ ▷ Los mejores perfumes baratos para hombre 【2021】
 permalink: "/mejores-perfumes-baratos-hombre-2021/" # importante para canonical_url
 subtitle: Selección de los mejores perfumes para hombres del 2021 calidad-precio y los más baratos
 description: Selección de los mejores perfumes para hombres del 2021 calidad-precio ✅
-image: https://yatt.es/assets/img/uploads/posts/2021/perfumes hombre/perfume_hombre_principal.jpg
+image: https://www.yatt.es/assets/img/uploads/posts/2021/perfumes hombre/perfume_hombre_principal.jpg
 category: 💆‍♂️ Cuidado personal
 tags:
   - perfumes
