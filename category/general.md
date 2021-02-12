@@ -2,6 +2,6 @@
 layout: category
 title: 🔰 General
 slug: general
-description: Descubre cosas de interés general.
+description: descubre artículos de interés general.
 permalink: /general/  # para quitar /category/travel
 ---

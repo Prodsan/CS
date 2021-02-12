@@ -7,8 +7,11 @@ permalink: "/biografia/"
 
 bio: >-
   Somos la web que te proporciona información sobre los mejores productos que hay en internet. Ofrecemos clasificaciones de productos, recomendaciones, contenidos varios... ¡y mucho más! 💙
-  El nombre del sitio web, "Yatt", debe su significado a la entoncación al pronunciar el nombre. Es decir, "Yatt" suena como... ¡yat! 🔴 ¡Ya ta! 🟠 ¡Ya está! 🟢
+  
 
 github_username: Prodsan
 instagram_username: pablor.98
 ---
+El nombre del sitio web, "Yatt", debe su significado a la entoncación al pronunciar el nombre. Es decir, "Yatt" suena como... ¡yat! 🔴 ¡Ya ta! 🟠 ¡Ya está! 🟢
+
+> En calidad de afiliado de Amazon, recibo una pequeña comisión por los productos que registre en este sitio web.
