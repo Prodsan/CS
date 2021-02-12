@@ -115,6 +115,3 @@ exclude: [
 # Theme
 # version: v1.0.0
 remote-theme: thiagorossener/jekflix-template
-
-redirect_from:
-  json: false
