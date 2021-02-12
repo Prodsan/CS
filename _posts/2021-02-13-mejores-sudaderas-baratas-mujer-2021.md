@@ -202,8 +202,7 @@ Hemos elaborado un filtro de criterio de compra para protegerte de las malas com
          <a class="ccc-product__title" href="https://www.amazon.es/Voqeen-Sudaderas-Capucha-Estampadas-Ocasionales/dp/B08HH5PYNJ/?tag=pablorodrig02-21" title="Voqeen Sudaderas con Capucha Estampadas con Teñido Anudado para Mujer Sudaderas Sueltas Ocasiona..." rel="nofollow" target="_blank">Voqeen Sudaderas con Capucha Estampadas con Teñido Anudado para Mujer Sudaderas Sueltas Ocasiona...</a>
          <div class="ccc-product__description">
             <p>Top corto bastante casual.
-               ESTILO CASUAL: ajuste holgado y relajante para la mayoría de las formas del cuerpo, camiseta de teñido anudado de moda nunca fuera de tiempo, uso adecuado para la primavera, el otoño, el invierno.
-               OCASIÓN: Este jersey con capucha es apropiado para el trabajo, la escuela, las vacaciones, la fiesta, el club, las películas, las salidas, las compras, las vacaciones, la playa, el exterior, el parque, el uso diario informal, la juventud y el estilo.
+               ESTILO CASUAL
             </p>
          </div>
       </div>
@@ -290,12 +289,10 @@ Hemos elaborado un filtro de criterio de compra para protegerte de las malas com
       <div class="ccc-product__content">
          <a class="ccc-product__title" href="https://www.amazon.es/heekpek-Sudadera-Camiseta-Mangas-Redondo/dp/B08DKP3FZ1/?tag=pablorodrig02-21" title="heekpek Sudadera Mujer Camiseta de Mangas Largas Escote Redondo Good Vibe Letras Top Casual" rel="nofollow" target="_blank">heekpek Sudadera Mujer Camiseta de Mangas Largas Escote Redondo Good Vibe Letras Top Casual</a>
          <div class="ccc-product__description">
-            <p>Estampado Precioso - La camiseta con estampado de arcoíris y GOOD VIBES letra se ve especial. Esta camiseta es la camisa ideal para llevarse mientras se difunde un mensaje inspirador de amor y felicidad.
-               Fácil de Combinar - Esta camiseta de manga larga para mujer es muy cómoda y combina con casi cualquier tipo de pantalones que quiera llevarse: pantalones de yoga, pantalones de jean, pantalones blancos, etc.
-               Material Suave - Algodón mezclado, súper suave y liviano. Acogedor, elástico y transpirable en tu piel. Te mantendrás cómodo todo el día.
-               Apto para Diferentes Ocasiones - Moda y estilo divertido, traje para vacaciones, trabajo, escuela, al aire libre, senderismo, viajes, causal, calle, compras y una variedad de actividades diarias.
-               Regalo Ieal - Compre esta camisa para usted o regálela a un amigo, es un regalo ideal para su madre, esposa, hermana, hija, tía o mejor amiga.
-               Cuidado de la Ropa - :recomiende el lavado suave opuesto. Lavado a mano sería mejor. No debe lavarse con agua caliente. Lavado por separación para evitar manchar la ropa.
+            <p>Estampado Precioso 
+               Fácil de Combinar 
+               Material Suave 
+               Regalo Ieal 
             </p>
          </div>
       </div>
