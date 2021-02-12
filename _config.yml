@@ -24,7 +24,7 @@ menu:
 email: webmaster@yatt.es
 disqus_username: disqus_username
 cookie_consent: true     # To respect the usage of cookies
-cookie_consent_disclaimer: Nos gustaría utilizar cookies y scripts para mejorar la funcionalidad de la web. <span style="color:white"><a href="https://www.yatt.es/aviso-legal/">Saber Más</a></span>
+cookie_consent_disclaimer: Nos gustaría utilizar cookies y scripts para mejorar la funcionalidad de la web. <span style="color:white"><a href="/aviso-legal/">Saber Más</a></span>
 
 
 # Social Media Settings
@@ -45,7 +45,7 @@ two_columns_layout: false
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.yatt.es" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 # google_analytics: "UA-XXXXXXXX-X"
 language: "es_ES"
 lang: "es_ES"
