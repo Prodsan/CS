@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/logo-yatt-perfil.png
+photo: /assets/img/logo-yatt-perfil.png
 name: yatt
 display_name: yatt.es
 permalink: "/biografia/"
