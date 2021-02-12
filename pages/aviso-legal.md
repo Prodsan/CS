@@ -14,7 +14,7 @@ En cumplimiento del artículo 10 de la Ley 34 / 2002, de 11 de julio, de Servici
 Titular: Pablo Rodríguez
 NIF:  49397757J
 Domicilio: Huelva
-Sitio Web https://www.yatt.es
+Sitio Web 
 ## Finalidad
 La finalidad del sitio Web URL es ofrecer información a los usuarios.
 
