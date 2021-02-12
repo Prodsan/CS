@@ -96,7 +96,7 @@ body.light:not(.main-page) {
 @media (max-width: 90em) {
 .navbar {
   .link {
-    background-color: #053963;
+    background-color: #ff6b6b;
     height: 33px;
     margin: 1px;
     // border-bottom: 1px solid #4682b4;
@@ -106,7 +106,7 @@ body.light:not(.main-page) {
 .navbar.active {
   position: inherit;
   .toggle {
-    background: steelblue;
+    background: #e80000;
     color: white;
     vertical-align: middle;
   }

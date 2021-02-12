@@ -6,7 +6,7 @@ tags:
   - cosas
   - tecnología
   - general
-show_hero: false
+show_hero: true
 menu:
   - title: Inicio
     url: /
