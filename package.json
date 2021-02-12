@@ -12,8 +12,7 @@
     "jekyll",
     "template",
     "theme",
-    "blog",
-    "netlify"
+    "blog"
   ],
   "author": "Thiago Rossener",
   "license": "MIT",
