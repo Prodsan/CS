@@ -97,6 +97,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Exclude my node related stuff
 exclude: [
