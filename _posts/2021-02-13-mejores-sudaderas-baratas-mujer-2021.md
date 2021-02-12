@@ -174,21 +174,14 @@ Hemos elaborado un filtro de criterio de compra para protegerte de las malas com
    <div class="ccc-product ccc-product--horizontal ccc-product--ribbon ccc-product--sale ccc-product--css-adjust-image-large ccc-product--bestseller"  data-ccc-product-id="B00008XWYS" data-ccc-product-title="Voqeen Mujer Looes Sudadera Tie-Dye Impreso Botón a Rayas Camiseta de Manga Larga Pullover Casual Tops">
       <span class="ccc-product__ribbon ccc-product__ribbon--sale">5 º más barato</span>
       <div class="ccc-product__thumb">
-         <a class="ccc-product__image-link" href="https://www.amazon.es/Voqeen-Sudadera-Tie-Dye-Camiseta-Pullover/dp/B08KZQG7QZ/?tag=pablorodrig02-21" title="Voqeen Mujer Looes Sudadera Tie-Dye Impreso Botón a Rayas Camiseta de Manga Larga Pullover Casua..." rel="nofollow" target="_blank"><img class="lazy lazy-hidden ccc-product__image" src="https://www.amazon.es/Voqeen-Sudadera-Tie-Dye-Camiseta-Pullover/dp/B08KZQG7QZ/ref=sr_1_4" data-lazy-type="image" data-src="https://www.amazon.es/Voqeen-Sudadera-Tie-Dye-Camiseta-Pullover/dp/B08KZQG7QZ/ref=sr_1_4" alt="Voqeen Mujer Looes Sudadera Tie-Dye Impreso Botón a Rayas Camiseta de Manga Larga Pullover Casua..."  /></a>
+         <a class="ccc-product__image-link" href="https://www.amazon.es/Voqeen-Sudadera-Tie-Dye-Camiseta-Pullover/dp/B08KZQG7QZ/?tag=pablorodrig02-21" title="Voqeen Mujer Looes Sudadera Tie-Dye Impreso Botón a Rayas Camiseta de Manga Larga Pullover Casua..." rel="nofollow" target="_blank"><img class="lazy lazy-hidden ccc-product__image" src="https://images-na.ssl-images-amazon.com/images/I/61YkDOEMS3L._AC_UX679_.jpg" data-lazy-type="image" data-src="https://www.amazon.es/Voqeen-Sudadera-Tie-Dye-Camiseta-Pullover/dp/B08KZQG7QZ/ref=sr_1_4" alt="Voqeen Mujer Looes Sudadera Tie-Dye Impreso Botón a Rayas Camiseta de Manga Larga Pullover Casua..."  /></a>
          <div class="ccc-product__rating"><a class="ccc-star-rating ccc-star-rating--medium ccc-star-rating--v1"  title="Valoración" rel="nofollow" target="_blank"><span style="width: 90%;"></span></a></div>
       </div>
       <div class="ccc-product__content">
          <a class="ccc-product__title" href="https://www.amazon.es/Voqeen-Sudadera-Tie-Dye-Camiseta-Pullover/dp/B08KZQG7QZ/?tag=pablorodrig02-21" title="Voqeen Mujer Looes Sudadera Tie-Dye Impreso Botón a Rayas Camiseta de Manga Larga Pullover Casua..." rel="nofollow" target="_blank">Voqeen Mujer Looes Sudadera Tie-Dye Impreso Botón a Rayas Camiseta de Manga Larga Pullover Casua...</a>
          <div class="ccc-product__description">
             <p>Diseñado como un top simple y moderno, este top de cuello redondo con botones y estampado de rayas teñido anudado es ideal para tu colección de primavera, otoño e invierno.
-               Tops de cuello redondo elegantes y de moda, mangas largas sueltas, estampado tie-dye con rayas blancas que lo hacen diferente a los demás y le da una impresión relajada.
-               Algodón + Poliéster
-               Se recomienda lavar a mano en frío / lavar a máquina en una bolsa de lavandería.
-               Estilo del cuello: redondo
-               túnica
                La camiseta de manga larga está hecha de algodón y poliéster. Tejido suave y cómodo, será ideal para tu uso diario, haciéndote sentir cómodo y cómodo todo el día.
-               La blusa informal simple y colorida es perfecta para salir, ir de compras, en la calle, en el trabajo, básica, de fiesta, al aire libre, actividades en el interior, etc., suite para niñas adolescentes o mujeres, perfecta para su próxima vocación.
-               La sudadera informal es perfecta para que las mujeres y las mujeres la usen con leggings, jeans, pantalones o como capa base en cualquier ocasión. AVISO: Antes de realizar el pedido, lea atentamente la Tabla de tallas.
             </p>
          </div>
       </div>
@@ -208,12 +201,8 @@ Hemos elaborado un filtro de criterio de compra para protegerte de las malas com
       <div class="ccc-product__content">
          <a class="ccc-product__title" href="https://www.amazon.es/Voqeen-Sudaderas-Capucha-Estampadas-Ocasionales/dp/B08HH5PYNJ/?tag=pablorodrig02-21" title="Voqeen Sudaderas con Capucha Estampadas con Teñido Anudado para Mujer Sudaderas Sueltas Ocasiona..." rel="nofollow" target="_blank">Voqeen Sudaderas con Capucha Estampadas con Teñido Anudado para Mujer Sudaderas Sueltas Ocasiona...</a>
          <div class="ccc-product__description">
-            <p>Esta sudadera con capucha Voqeen tie-dye combinada con cordón, hecha de suave mezcla de algodón, disponible en talla S / M / L / XL / XXL 5. Arco iris / azul / rosa / naranja 4 colores disponibles. Tops muy suaves y cómodos. Top corto bastante casual.
-               FETURES: Sudaderas con capucha de manga larga, diseño de color block teñido anudado, con cordón. Diseño holgado para todas las mujeres de todos los tamaños y tipos de cuerpo. La parte delantera se despliega perfectamente para disfrazar tu barriga.
-               Mezcla de algodón
-               Lavar a máquina / lavar a mano con agua fría.
-               ESTILO CASUAL: ajuste holgado y relajante para la mayoría de las formas del cuerpo, camiseta de teñido anudado de moda nunca fuera de tiempo, uso adecuado para la primavera, el otoño, el invierno.Un regalo de corazón cálido para su familia, amante, hija, nieta, novia o colega, cumpleaños de un compañero de clase.
-               FÁCIL DE COMBINAR: las sudaderas con capucha de manga larga con efecto tie dye perfectas para combinar con cualquier pantalón casual son perfectas, como jeans, leggings, joggers.Diseño de teñido anudado para mujeres para llamar la atención.De moda para el uso diario.
+            <p>Top corto bastante casual.
+               ESTILO CASUAL: ajuste holgado y relajante para la mayoría de las formas del cuerpo, camiseta de teñido anudado de moda nunca fuera de tiempo, uso adecuado para la primavera, el otoño, el invierno.
                OCASIÓN: Este jersey con capucha es apropiado para el trabajo, la escuela, las vacaciones, la fiesta, el club, las películas, las salidas, las compras, las vacaciones, la playa, el exterior, el parque, el uso diario informal, la juventud y el estilo.
             </p>
          </div>
@@ -237,8 +226,6 @@ Hemos elaborado un filtro de criterio de compra para protegerte de las malas com
             <p>Esta camiseta clásica y versátil proporciona un aspecto fácil perfecto para cualquier ocasión.
                Comienza cada atuendo con la gama de productos básicos elevados de Daily Ritual.
                60% Algodón, 40% Modal
-               Lavar a máquina
-               Manga larga
                Pima - Sudadera de algodón y modal entrelazado con bolsillo
             </p>
          </div>
@@ -259,12 +246,8 @@ Hemos elaborado un filtro de criterio de compra para protegerte de las malas com
       <div class="ccc-product__content">
          <a class="ccc-product__title" href="https://www.amazon.es/oodji-Ultra-Sudadera-Algod%C3%B3n-Turquesa/dp/B084HCLRMQ/?tag=pablorodrig02-21" title="oodji Ultra Mujer Sudadera Básica de Algodón" rel="nofollow" target="_blank">oodji Ultra Mujer Sudadera Básica de Algodón</a>
          <div class="ccc-product__description">
-            <p>Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 86/61/91. Altura/peso: 176cm/55kg
                Perfecto para crear un cómodo look atractivo de estilo casual. El llamativo dibujo destacará tu estilo y te alegrará
                60% Poliéster, 40% Algodón
-               Temperatura máxima de lavado 30 °С; modo delicado
-               Impresionante suéter con estampado divertido y mensaje en inglés
-               Longitud de espalda (talla M): 60cm
                Estilo de ropa: Casual
             </p>
          </div>
@@ -332,13 +315,10 @@ Hemos elaborado un filtro de criterio de compra para protegerte de las malas com
       <div class="ccc-product__content">
          <a class="ccc-product__title" href="https://www.amazon.es/Tuopuda-Sudadera-Estampado-Camiseta-Invierno/dp/B08HH7T95M/?tag=pablorodrig02-21" title="Tuopuda Sudadera con Capucha para Mujer Tie-Dye Estampado con Manga Larga Jerséis Sueltos Sudade..." rel="nofollow" target="_blank">Tuopuda Sudadera con Capucha para Mujer Tie-Dye Estampado con Manga Larga Jerséis Sueltos Sudade...</a>
          <div class="ccc-product__description">
-            <p>🌻Camisa de teñido anudado de colores suaves: hecha de tela suave, tela liviana, súper suave y cómoda, patrón de teñido anudado vivo, costuras bien terminadas, longitud más larga. Se lava bien y no se decolora. Mantén tu ropa cómoda todos los días.
-               🌻 Pullover de sudadera con teñido anudado: el estampado de moda con estampado de teñido anudado te hace lucir genial entre la multitud. Cuello en V, estilo sudadera de manga larga, ajuste holgado y relajante para la mayoría de las formas del cuerpo, camiseta de teñido anudado de moda nunca fuera de tiempo, material no demasiado grueso y demasiado delgado, perfecto para todas las estaciones.
+            <p>🌻Camisa de teñido anudado de colores suaves
+               🌻 Pullover de sudadera con teñido anudado
                🌻Sudadera Tie Dye-Material: 85% poliéster, 15% algodón
-               🌼 Cuidado de lavado: se puede lavar a máquina, se recomienda lavar a mano, con agua fría, no planchar ni blanquear a alta temperatura.
-               🌻Sudadera con capucha linda con cuello en V: camisetas de teñido anudado con cordones, una capucha grande, camiseta de manga larga con cuello en V. Traje para damas y juniors. Fácil de combinar con cualquier pantalón casual es perfecto, como jeans, leggings, joggers.Un uso perfecto para hacer ejercicio, bailar, ir a la playa, descansar en la casa.
-               🌻 Ocasión: usar en la vida diaria, trabajo, oficina, escuela, deporte, correr, trabajo a domicilio, ropa de descanso informal o al aire libre, vacaciones, etc.
-               🌻Nota de tamaño: elija los tamaños de acuerdo con nuestra tabla de tallas, no utilice la tabla de tallas de Amazon.
+               🌻Sudadera con capucha linda con cuello en V
             </p>
          </div>
       </div>
@@ -451,11 +431,6 @@ Hemos elaborado un filtro de criterio de compra para protegerte de las malas com
             <p>Un paño de rizo supersuave y mezcla modal resalta esta sudadera con cuello de barco y aberturas laterales.
                El algodón Terry y el modal más suave se mezclan para crear la mezcla perfecta de punto acanalado.
                58% Algodón, 39% Modal, 3% Elastano
-               Lavar a máquina
-               Manga larga
-               Terry Cotton and Modal Dorito - Sudadera
-               Comienza cada atuendo con la gama de elementos básicos elevados de Daily Ritual
-               La modelo mide 5'11" y lleva una talla pequeña.
             </p>
          </div>
       </div>
@@ -478,10 +453,7 @@ Hemos elaborado un filtro de criterio de compra para protegerte de las malas com
             <p>Jersey de corte relajado para mujer con aspecto de leopardo
                Los puños acanalados en las mangas y en el dobladillo garantizan un ajuste óptimo
                60% Algodón, 40% Poliéster
-               Lavar a máquina
                Estilo del cuello: Cuello redondo
-               Manga larga
-               Normal
             </p>
          </div>
       </div>
@@ -528,10 +500,6 @@ Hemos elaborado un filtro de criterio de compra para protegerte de las malas com
          <div class="ccc-product__description">
             <p>Este clásico de cuarto de cierre tiene mangas largas, dobladillo acanalado y un corte holgado.
                El algodón terry y el modal más suave se mezclan para crear la mezcla perfecta de punto acanalado.
-               58% Algodón, 39% Modal, 3% Elastano
-               Lavar a máquina
-               Manga larga
-               Terry Cotton & Modal Quarter-zip Sweatshirt
             </p>
          </div>
       </div>
@@ -551,13 +519,8 @@ Hemos elaborado un filtro de criterio de compra para protegerte de las malas com
       <div class="ccc-product__content">
          <a class="ccc-product__title" href="https://www.amazon.es/Drop-Isabella-Sudadera-el%C3%A1stica-supersuave/dp/B07LCB4L4D/?tag=pablorodrig02-21" title="Marca Amazon - Isabella Sudadera elástica de manga larga con capucha por The Drop" rel="nofollow" target="_blank">Marca Amazon - Isabella Sudadera elástica de manga larga con capucha por The Drop</a>
          <div class="ccc-product__description">
-            <p>Esenciales by The Drop
-               La modelo mide 178 cm y lleva una talla S
-               48% Algodón, 48% Modal, 4% Elastano
-               Lavar a máquina
-               Isabella - Sudadera de manga larga con capucha elástica
+            <p>48% Algodón, 48% Modal, 4% Elastano
                Esta sudadera con capucha de rizo francés supersuave y elástica cuenta con un detalle de marca bordado en la parte posterior. La silueta ligeramente recortada y el borde redondeado añade un toque elegante.
-               The Drop: ropa diseñada por influencers y las prendas esenciales para completar el look
             </p>
          </div>
       </div>
@@ -580,12 +543,6 @@ Hemos elaborado un filtro de criterio de compra para protegerte de las malas com
             <p>Una sudadera clásica con cuello redondo en un increíblemente suave y cómodo forro polar de felpa francesa es una opción ideal para un look sencillo y casual.
                Con cuello redondo, acanalado en el dobladillo, puños y escote.
                60% Algodón, 40% Poliéster
-               Cierre: sin cierre
-               Lavar a máquina
-               French Terry - Sudadera con cuello redondo
-               Mejor elaboración: escuchamos los comentarios de los clientes y afinamos cada detalle para garantizar calidad, ajuste y comodidad.
-               Descubre más de Amazon Essentials visitando amazon.com/amazonessentials
-               El modelo mide 5'10" y lleva una talla S.
             </p>
          </div>
       </div>
@@ -612,12 +569,8 @@ Hemos elaborado un filtro de criterio de compra para protegerte de las malas com
             <p>Modelo casual
                Con tacto suave de forro polar
                100% Algodón
-               Cierre: Sin cierre
-               Lavar a máquina
                Estilo del cuello: Redondo
                Manga corta
-               Camiseta
-               Tiene estampado la marca Levi's
             </p>
          </div>
       </div>
@@ -644,9 +597,6 @@ Hemos elaborado un filtro de criterio de compra para protegerte de las malas com
                Cierre: Sin cierre
                Lavar a máquina
                Estilo del cuello: Redondo
-               Manga corta
-               Camiseta
-               Tiene estampado la marca Levi's
             </p>
          </div>
       </div>
