@@ -5,7 +5,7 @@ title: ‍🥇 Mejores perfumes para mujer y los más baratos 💰 2021
 permalink: "/mejores-perfumes-baratos-mujer-2021/" # importante para canonical_url
 subtitle: Lista y clasificación de los mejores perfumes para mujeres del 2021 calidad-precio y los más baratos
 description: Lista y clasificación de los mejores perfumes para mujeres del 2021 calidad-precio y los mejores perfumes para mujeres del 2021 más baratos ✅
-image: https://www.yatt.es/assets/img/uploads/posts/2021/perfumes mujer/perfume_mujer_principal.jpg
+image: /assets/img/uploads/posts/2021/perfumes mujer/perfume_mujer_principal.jpg
 category: 💆‍♂️ Cuidado personal
 tags:
   - perfumes
